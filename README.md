@@ -14,12 +14,12 @@ Configuración de Docker y Traefik
 - https://github.com/Code7Zero/docker-config
 
 Equipo de desarrollo:
-Marcos Aranda
-Luanna Guajardo
-Axel Sanchez
-Agustin Carbajal
-Lucas Becerra
-Pablo La Torre
-Joaquín Moliterno
-(iA) ChatGPT
-(iA) Copilot
+- Marcos Aranda
+- Luanna Guajardo
+- Axel Sanchez
+- Agustin Carbajal
+- Lucas Becerra
+- Pablo La Torre
+- Joaquín Moliterno
+- (iA) ChatGPT
+- (iA) Copilot
