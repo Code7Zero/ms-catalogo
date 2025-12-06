@@ -1,4 +1,4 @@
-# ms-catalogo-e-commerce-
+# ms-catalogo
 Microservicio de gestión de productos, encargado de almacenar y proporcionar información sobre los productos disponibles en la tienda.
 
 ### Repositorios relacionados
